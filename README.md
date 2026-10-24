@@ -61,7 +61,9 @@ India has tremendous potential for growth, if it utilises the right policies and
 
 ## Acknowledgements
 I would like to thank my parents for motivating me to do this project. I would like to thank the researchers at world bank for collecting the data over the years and presenting it in such a concise manner. I would like to thank Dr. Amartya Sen and his team for giving me an insightful new way to look at development. It has been an immense pleasure to do such an insightful project that tries to understand the economy and development of India. 
+
 Advait Kusurkar
+
 24-10-2026
 
 
