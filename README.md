@@ -26,6 +26,7 @@ Unemployment Rate = (Number of Unemployed Workers ÷ Total Labour Force) × 100
 Unemployment snatches the ability of people to utilise their own skills and abilities to earn money which could have given them freedom to consume goods and services in the market. They could have invested the money in stocks in bonds too. But, without a steady source of income, it’s not possible to enjoy the freedoms of being a free consumer. 
 ### Situation in India
 The unemployment rate calculation for India by the World Bank began in 1991, with the baseline unemployment rate being about 7.6%. It remained roughly steady till 2019, where it dropped to 6.51%. Then it rose to about 7.6% again in 2020. Till 2024, it had dropped to 4.1%. The average unemployment in the world was about 5.5% from 1991 to 2019. During 2020 it hit 6.5%. India has done a lot better in terms of employment after 2020. India has had a relatively very low unemployment rate as compared to the world from 2020-2024. The world unemployment rate then slowly dropped to roughly 5%. This sharp fall in unemployment is due to gig economy and the informal sector economy, not due to formal sector reform or policy decisions. 
+![Unemployment Chart](unemployment.png)
 
 ## Inflation
 ### What is inflation?
@@ -35,6 +36,7 @@ Inflation = [(Current CPI – Base Year CPI) ÷ Base Year CPI] × 100, where CPI
 Inflation is the increase in the price of the goods. So, if inflation increases, the freedom of the people to buy will reduce, or people will get ready to pay more for scarcer goods. In either case it hampers the development of a nation. But it also signifies that there is an increase in demand for the goods, and people are willing to pay more for the goods. So, it also leads to development. There’s a healthy rate of inflation, roughly 3-6%, which signifies development in an economy. If there is too much inflation, it hampers demand. If there’s too low an inflation, it signifies low demand which is already existing. 
 ### Situation in India
 India has faced a decline in inflation from 1991 to 2024, although with a lot of fluctuations, especially in 2010, when there was a sharp rise in inflation to almost 12% from roughly 3% due to severe food supply shocks, rising global commodity and fuel prices, and rapid post 2008 crisis recovery. India’s inflation rate fell from roughly 8% in 1991 to roughly 5% in 2024. The world inflation rate was roughly 1% to 3% between 1991 and 2024 on an average, but in 2022 it was roughly 8% due to the Ukraine-Russia war and COVID-19. India has had a higher inflation rate than the world, but since it is a developing nation, such rates are expected.
+![Inflation Chart](inflation.png)
 
 ## GDP
 ### What is GDP?
@@ -44,6 +46,7 @@ GDP = ∑ (Value of all final goods and services) = Government Expenditure + Con
 GDP signifies the income of the people in general. If it increases, it signifies an increase in the income of the people. If it falls, it signifies a decrease in the income of the people. It is integral in development as income allows us to buy goods and services that would otherwise have been unavailable to us. Hence, it increases our freedom. 
 ### Situation in India
 The GDP in India has grown over 13 times from $300 Billion ($0.3 Million Million) in 1990 to $3.9 Trillion ($3.9 Million Million) in 2024. The impressive rise is due to multiple reasons, the most major among them being the 1991 economic reforms. Now, India’s GDP is not really comparable to the World GDP as the World GDP will be the total GDP of every one of the 196 countries in the world, including India’s, and it is a very huge amount. For example, the 2024 world GDP was $111 Trillion. All of this GDP measurement is nominal (that is, not accounting for inflation and purchasing power parity), and hence, it is not as accurate. But it still gives an idea of what the actual GDP of the world and India both. For proper comparison, we need to do it with individual countries. In 2024, India ranked 5th globally in terms of GDP. In 1990, India stood 13th or 14th in terms of GDP. This signifies that India has shown immense growth in terms of GDP from 1990 to 2024.
+![GDP Chart](gdp.png)
 
 ## Conclusion
 In conclusion, India has developed a lot from 1990 to 2024. Inflation rate has reduced and GDP has tremendously increased. Only employment has remained relatively weak, as the reduction in unemployment was due to an increase in the informal sector of employment, and for the most part unemployment remained fairly high. This has been called jobless growth by many economists. 
