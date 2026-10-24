@@ -11,6 +11,7 @@ The project aims to understand the development of India in its reform era, throu
 ## Development
 ### What is development?
 > “Development can be seen…, as a process of expanding the real freedoms that people enjoy,” quotes Dr. Amartya Sen, in his insightful book “Development as Freedom.”
+
 We could take freedoms as being the freedoms to buy goods of comfort and luxury, take education from excellent institutions, eat healthy yet flavourful food, and receive utmost attention towards our health and its various cares. Freedom here also means that we can do things that we wouldn’t have been able to without development, like going on luxury vacations, buying a super-car, or eating at a fancy restaurant. 
 ### Why development?
 Like we saw above, development is the process of expanding the real freedoms that people can enjoy. But development is not inherently restricted to freedom. It is also inherently linked to a healthier economy and a better world image of a country. For example, if we build better transport infrastructure like airports, seaports, railway lines, railway stations, metros, trams, roads, etc, people will have more freedom to travel across the country. They will have more freedom to take education in places where it was earlier not feasible to do so. They can sell their produce in markets far from home. Work can be found in distant cities. Defence and national security can be mobilised quickly and securely. 
@@ -18,6 +19,7 @@ Like we saw above, development is the process of expanding the real freedoms tha
 ## Unemployment
 ### What is unemployment?
 > “Unemployment refers to a situation where a person actively searches for employment but is unable to find work”, according to Investopedia.
+
 Unemployment is measured by unemployment rate, the formula for which is
 Unemployment Rate = (Number of Unemployed Workers ÷ Total Labour Force) × 100
 ### How does unemployment affect development?
