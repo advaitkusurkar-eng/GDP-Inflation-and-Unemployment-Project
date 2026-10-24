@@ -4,7 +4,7 @@ By Advait Kusurkar
 The GDP, inflation, and unemployment conditions of a country are always some of the first and most interesting aspects of the economy of a country that a researcher looks at. They tell the general economic condition of the country and are also helpful in highlighting national development and growth.
 The story of India in these three is rather interesting. It spans over three decades, from 1990 to 2024. What makes it more interesting that this period has been a period of great reforms, commonly referred to as the LPG reforms, and hence this data is particularly important in the history of India. 
 ### Data Sources
-The GDP, Unemployment, and Inflation data I have collected is the World Bank Data available on the World Bank Open Data Site (https://data.worldbank.org/country/india) (downloaded on 19 June, 2026). Investopedia has given me the definition of unemployment, and Development as Freedom has given me the definition of development. The Press Information Bureau's Economic Survey gave the data for teh reasons for fall in unemplyment rate.
+The GDP, Unemployment, and Inflation data I have collected is the World Bank Data available on the World Bank Open Data Site (https://data.worldbank.org/country/india) (downloaded on 19 June, 2026). Investopedia has given me the definition of unemployment, and Development as Freedom has given me the definition of development. The Press Information Bureau's Economic Survey gave the data for the reasons for fall in unemployment rate.
 ### Aim of the Project
 The project aims to understand the development of India in its reform era, through the lens of unemployment, GDP, and inflation. This will be aided by a rough study of the policies and laws implemented during this period. 
 
